@@ -12,6 +12,7 @@ export const DATA = {
   summary:
     "I&apos;m 22, a builder driven by curiosity and execution. I thrive on breaking things, learning fast, and pushing code to production. My focus is on full-stack engineering, AI, and system design, but I'm open to anything that stretches my limits. Still chasing mastery.Love the beauty of NextJS & TS",
   avatarUrl: "https://i.postimg.cc/c1kh4G2L/sujankhatri-2.jpg",
+  favIcon: "/favicon.png",
   skills: [
     "React",
     "Next.js",
