@@ -251,7 +251,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https:docuchat.khatrisujan.com.np",
+          href: "https://docuchat.khatrisujan.com.np",
           icon: <Icons.globe className="size-3" />,
         },
         {
