@@ -182,7 +182,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
         {
-          type: "Source",
+          type: "Frontend",
           href: "https://github.com/sujansince2003/SynkSpace-Collaborative-Docs_AI-Translations_Live-Editing",
           icon: <Icons.github className="size-3" />,
         },
