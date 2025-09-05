@@ -80,7 +80,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Fullstack Developer (Part-time),Remote",
-      logoUrl: "/atomic.png",
+      logoUrl: "https://i.postimg.cc/1XwBMByb/logo.png",
       start: "Jan 2025",
       end: "Present",
       description:
@@ -93,7 +93,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Frontend Developer Intern,Remote",
-      logoUrl: "/lancemeup.png",
+      logoUrl: "https://i.postimg.cc/598P3JbW/lance-me-up-logo.jpg",
       start: "Dec 2023",
       end: "Feb 2024",
       description:
@@ -108,7 +108,8 @@ export const DATA = {
       badges: [],
       location: "Butwal, Nepal",
       title: "Senior Advisor · Ex-Vice President · Ex-Tech Lead",
-      logoUrl: "/atomic.png",
+      logoUrl:
+        "https://res.cloudinary.com/dol8m5gx7/image/upload/v1723191383/logohero_nsqj8h.png",
       start: "Jan 2025",
       end: "Present",
       description:
@@ -121,7 +122,8 @@ export const DATA = {
       badges: [],
       location: "Butwal, Nepal",
       title: "Event Co-Lead",
-      logoUrl: "/lancemeup.png",
+      logoUrl:
+        "https://res.cloudinary.com/dtr4vo1dy/image/upload/v1742566658/logo_b4r5vm.png",
       start: "Dec 2023",
       end: "Feb 2024",
       description:
@@ -133,7 +135,7 @@ export const DATA = {
       school: "Butwal Multiple Campus",
       href: "",
       degree: "Bsc.CSIT",
-      logoUrl: "/waterloo.png",
+      logoUrl: "/TU.svg",
       start: "2022",
       end: "2026",
     },
@@ -141,7 +143,8 @@ export const DATA = {
       school: "Kumudini HSS",
       href: "",
       degree: "+2 Science",
-      logoUrl: "/laurier.png",
+      logoUrl:
+        "https://i.postimg.cc/5NwZ6v6v/518207044-1289948046468468-9096827067890618169-n.jpg",
       start: "2016",
       end: "2021",
     },
